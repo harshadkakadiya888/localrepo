@@ -1,0 +1,39 @@
+[33mcommit c2519ef3ad0326cfb37fc24e965100af3b1d7f21[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeature1[m[33m)[m
+Merge: 8fe6ae0 de5c359
+Author: harshadkakadiya888 <harshadkakadiya888@gmail.com>
+Date:   Mon Mar 2 11:15:31 2026 +0530
+
+    add both
+
+[33mcommit 8fe6ae08567b6d90768496a7b5bfa61bf6dd21f0[m
+Author: harshadkakadiya888 <harshadkakadiya888@gmail.com>
+Date:   Mon Mar 2 11:10:32 2026 +0530
+
+    add dropdown
+
+[33mcommit de5c35989d6f01ba3d226f3689d1e06918d5e7fe[m
+Author: harshadkakadiya888 <harshadkakadiya888@gmail.com>
+Date:   Mon Mar 2 11:06:55 2026 +0530
+
+    add button
+
+[33mcommit 9af77e08f9d2e769d99b76d3a3eaec3676cf8b65[m
+Merge: 6c89dfd abf682e
+Author: harshadkakadiya888 <harshadkakadiya888@gmail.com>
+Date:   Mon Mar 2 10:56:55 2026 +0530
+
+    Merge pull request #1 from harshadkakadiya888/feature1
+    
+    add new line welcome
+
+[33mcommit abf682e77f08508c365ad62a3db46e4f5494534c[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: harshadkakadiya888 <harshadkakadiya888@gmail.com>
+Date:   Sat Feb 28 16:50:09 2026 +0530
+
+    add new line welcome
+
+[33mcommit 6c89dfd661385c627b2d4fa44abc707606f0949b[m
+Author: harshadkakadiya888 <harshadkakadiya888@gmail.com>
+Date:   Sat Feb 28 10:22:17 2026 +0530
+
+    create file
